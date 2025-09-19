@@ -23,7 +23,7 @@ I'm a programmer in training, passionate about technology, problem-solving, and 
 
 - Strengthening my knowledge in databases, authentication, and CI/CD pipelines.
 ## 💫 About me
-🔍 Curious about how things work (tech, psychology, medicine, the brain).
+🔍 Curious about how things work.
 
 📖 Always learning — I believe programming is a way to train both logic and creativity.
 
