@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Yeli-bug/Yeli-bug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ana! 💻💜
 
-Here are some ideas to get you started:
+I'm a programmer in training, passionate about technology, problem-solving, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my skills in Angular (v19), Node.js/Express, and full-stack development.
+
+🤖 My long-term goal is to specialize in Artificial Intelligence and Machine Learning, building intelligent systems that combine data, algorithms, and creativity.
+
+
+
+
+##   🛠️ Tech Stack
+- Frontend: Angular, TypeScript, Angular Material, SCSS
+
+- Backend: Node.js, Express
+
+- Databases: MongoDB, SQL basics
+
+- Other: Git/GitHub, REST APIs, Agile mindset
+## 🚀 What I'm working on
+- Practicing Python and JavaScript through problem-solving challenges (HackerRank, LeetCode).
+
+- Strengthening my knowledge in databases, authentication, and CI/CD pipelines.
+## 💫 About me
+🔍 Curious about how things work (tech, psychology, medicine, the brain).
+
+📖 Always learning — I believe programming is a way to train both logic and creativity.
+
+🌎 Improving my English daily to reach C-level fluency.
+
+💡 Interested in applying AI to solve real-world problems.
