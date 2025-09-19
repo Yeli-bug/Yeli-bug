@@ -32,5 +32,4 @@ I'm a programmer in training, passionate about technology, problem-solving, and 
 💡 Interested in applying AI to solve real-world problems.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yeli-bug&theme=ocean-dark)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
 
