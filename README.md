@@ -30,3 +30,5 @@ I'm a programmer in training, passionate about technology, problem-solving, and 
 🌎 Improving my English daily to reach C-level fluency.
 
 💡 Interested in applying AI to solve real-world problems.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yeli-bug&theme=ocean-dark)](https://git.io/streak-stats)
