@@ -33,5 +33,4 @@ I'm a programmer in training, passionate about technology, problem-solving, and 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yeli-bug&theme=ocean-dark)](https://git.io/streak-stats)
 
-anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats
+
